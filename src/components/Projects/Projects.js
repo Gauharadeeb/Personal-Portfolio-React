@@ -41,7 +41,7 @@ Additionally, the website is designed to be fully responsive and works well on a
               isBlog={false}
               title="Portfolio Website"
               description="This portfolio website showcases My projects, resume, and technical skills. It is designed to be visually appealing, user-friendly, and fully responsive, ensuring it looks great on any device. The website is built using modern web technologies, including React.js, Javascript,HTML, and CSS3, with deployment on Vercel."
-              ghLink="https://github.com/Gauharadeeb01/Portfolio-React"
+              ghLink="https://github.com/Gauharadeeb01/Portfolio-website-React"
             
             />
           </Col>
